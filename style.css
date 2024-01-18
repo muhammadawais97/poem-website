@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+}
+nav{
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: aqua;
+    
+}
+ul li{
+    display: inline;
+    margin-right: 120px;
+}
+.header h1{
+    text-align: center;
+    color: aqua;
+}
+.header h2{
+    text-align: center;
+    margin-top: 50px;
+    font-family: arial;
+    color: #008080
+}
+.header h3{
+    text-align: center;
+}
+.header p{
+    color: brown;
+    font-family: arial;
+}
+.header b{
+    font-size: 100px;
+}
